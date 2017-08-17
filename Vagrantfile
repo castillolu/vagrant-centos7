@@ -1,6 +1,6 @@
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
-second_disk = '../VBoxGuestAdditions_5.1.22.iso'
+second_disk = 'VBoxGuestAdditions_5.1.22.iso'
 
 # All Vagrant configuration is done below. The "2" in Vagrant.configure
 # configures the configuration version (we support older styles for
