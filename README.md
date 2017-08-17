@@ -39,3 +39,14 @@ Now you have to wait for installation ended!
 ```
 config.vm.synced_folder "/Library/WebServer/Documents/techsupport", "/var/www/html", :owner => "apache", :group => "apache", :mount_options => ["dmode=775", "fmode=664"]
 ```
+
+Access data to PostgreSQL
+
+```
+Host name/address : 192.168.33.10
+Post : 5432
+Database: demo
+username: vagrant
+Role: vagrant
+Password: vagrant
+```
